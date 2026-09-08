@@ -5,6 +5,11 @@ Autora: Ana Clara Machado Guimarães
 
 Para esse projeto escolhi utilizar uma interface mais simplificada e paleta de cores mais simples também. Os projetos que estão no portfólio são projetos pessoais e reais meus, de jogos que tenho trabalhado especialmente em roteiro e ilustrações.
 
+# Protótipo do portfólio
+Link do Figma para o projeto: 
+  
+https://www.figma.com/proto/5MGcGCaH67VudXoB8HE9Yb/Portfolio?node-id=0-1&t=0cywuxaDcIalUf3p-1
+
 ## Paleta de cores do projeto
 <img width="460" height="174" alt="image" src="https://github.com/user-attachments/assets/4e0a7ed5-78aa-491f-a02b-b80f34e13e0e" />
 
@@ -33,8 +38,3 @@ A página de detalhes do projeto apresenta uma galeria de ilustrações do jogo 
   Projeto 4
   
 <img width="1291" height="915" alt="Image" src="https://github.com/user-attachments/assets/dc7c5def-823a-4ec2-8f2b-21f383795ae0" />
-
-# Protótipo do portfólio
-Link do Figma para o projeto: 
-  
-https://www.figma.com/proto/5MGcGCaH67VudXoB8HE9Yb/Portfolio?node-id=0-1&t=0cywuxaDcIalUf3p-1
