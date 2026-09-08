@@ -10,7 +10,7 @@ Para esse projeto escolhi utilizar uma interface mais simplificada e paleta de c
 
 ## Telas do projeto: 
 
-A homepage apresenta um pouco sobre mim,
+A homepage apresenta um pouco sobre mim, meus interesses e áreas que trabalho. Adicionei programas com os quais sei trabalhar e habilidades específicas minhas. Abaixo tem 4 dos meus projetos que tenho trabalhado e estão em produção 
 
   Homepage
   
