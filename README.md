@@ -1,6 +1,10 @@
 # Portfolio
 Projeto de criação do protótipo de um portfólio pessoal, para a disciplina de Design de Experiência e Prototipação 
 
+Autora: Ana Clara Machado Guimarães
+
+
+
 ## Paleta de cores do projeto
 <img width="460" height="174" alt="image" src="https://github.com/user-attachments/assets/4e0a7ed5-78aa-491f-a02b-b80f34e13e0e" />
 
