@@ -11,4 +11,6 @@ Projeto de criação do protótipo de um portfólio pessoal, para a disciplina d
 
 <img width="1291" height="915" alt="Image" src="https://github.com/user-attachments/assets/dc7c5def-823a-4ec2-8f2b-21f383795ae0" />
 
+<img width="460" height="174" alt="image" src="https://github.com/user-attachments/assets/4e0a7ed5-78aa-491f-a02b-b80f34e13e0e" />
+
 https://www.figma.com/proto/5MGcGCaH67VudXoB8HE9Yb/Portfolio?node-id=0-1&t=0cywuxaDcIalUf3p-1
