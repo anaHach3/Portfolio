@@ -30,5 +30,6 @@ Para esse projeto escolhi utilizar uma interface mais simplificada e paleta de c
 <img width="1291" height="915" alt="Image" src="https://github.com/user-attachments/assets/dc7c5def-823a-4ec2-8f2b-21f383795ae0" />
 
 # Protótipo do portfólio
-  Link do Figma para o projeto
+Link do Figma para o projeto: 
+  
 https://www.figma.com/proto/5MGcGCaH67VudXoB8HE9Yb/Portfolio?node-id=0-1&t=0cywuxaDcIalUf3p-1
