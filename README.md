@@ -6,7 +6,7 @@ Autora: Ana Clara Machado Guimarães
 Para esse projeto escolhi utilizar uma interface mais simplificada e paleta de cores mais simples também. Os projetos que estão no portfólio são projetos pessoais e reais meus, de jogos que tenho trabalhado especialmente em roteiro e ilustrações.
 
 # Protótipo do portfólio
-Link do Figma para o projeto: 
+Link do projeto Figma: 
   
 https://www.figma.com/proto/5MGcGCaH67VudXoB8HE9Yb/Portfolio?node-id=0-1&t=0cywuxaDcIalUf3p-1
 
