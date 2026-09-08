@@ -8,3 +8,5 @@ Projeto de criação do protótipo de um portfólio pessoal, para a disciplina d
 <img width="1293" height="918" alt="Image" src="https://github.com/user-attachments/assets/f777c385-f5db-490e-b6c9-8db6ec11cf3b" />
 
 <img width="1293" height="916" alt="Image" src="https://github.com/user-attachments/assets/c8b3beed-daaa-4a23-95d9-361b0f1892fa" />
+
+<img width="1291" height="915" alt="Image" src="https://github.com/user-attachments/assets/dc7c5def-823a-4ec2-8f2b-21f383795ae0" />
