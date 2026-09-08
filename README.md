@@ -10,9 +10,9 @@ Para esse projeto escolhi utilizar uma interface mais simplificada e paleta de c
 
 ## Telas do projeto: 
 
-A homepage apresenta um pouco sobre mim, meus interesses e áreas que trabalho. Adicionei programas com os quais sei trabalhar e habilidades específicas minhas. Abaixo tem 4 dos meus projetos que tenho trabalhado e estão em produção, na página de cada um adicionei um apequena sinopse do jogo e um pouco sobre os visuais dele. 
+A homepage apresenta um pouco sobre mim, meus interesses e áreas que trabalho. Adicionei programas com os quais sei trabalhar e habilidades específicas minhas. Abaixo tem 4 dos meus projetos que tenho trabalhado e estão em produção, na página de cada um adicionei uma pequena sinopse do jogo e um pouco sobre os visuais dele. 
 
-Dentro da página de cada projeto é possível alternar entre eles utilizando as setas na barra lateral e voltar à homepage pela seta no canto superior direito.
+A página de detalhes do projeto apresenta uma galeria de ilustrações do jogo em questão, que poderia levar à outra página com o acervo completo de ilustrações do projeto. Na parte superior há o nome do jogo e abaixo detalhes sobre história e visuais. Dentro da página também é possível alternar entre cada um utilizando as setas na barra lateral e voltar à homepage pela seta no canto superior direito.
 
   Homepage
   
