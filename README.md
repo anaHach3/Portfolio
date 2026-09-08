@@ -3,7 +3,7 @@ Projeto de criação do protótipo de um portfólio pessoal, para a disciplina d
 
 Autora: Ana Clara Machado Guimarães
 
-
+Para esse projeto escolhi utilizar uma interface mais simplificada e paleta de cores mais simples também. Os projetos que estão no portfólio são projetos pessoais e reais meus, de jogos que tenho trabalhado especialmente em roteiro e ilustrações.
 
 ## Paleta de cores do projeto
 <img width="460" height="174" alt="image" src="https://github.com/user-attachments/assets/4e0a7ed5-78aa-491f-a02b-b80f34e13e0e" />
