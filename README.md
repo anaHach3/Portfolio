@@ -9,6 +9,9 @@ Para esse projeto escolhi utilizar uma interface mais simplificada e paleta de c
 <img width="460" height="174" alt="image" src="https://github.com/user-attachments/assets/4e0a7ed5-78aa-491f-a02b-b80f34e13e0e" />
 
 ## Telas do projeto: 
+
+A homepage apresenta um pouco sobre mim,
+
   Homepage
   
 <img width="1294" height="922" alt="Image" src="https://github.com/user-attachments/assets/acd63d5d-8149-4e06-9f6d-fd80ae291dc0" />
